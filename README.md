@@ -30,6 +30,6 @@ Herramienta CLI de OSINT escrita en Python. Interfaz interactiva con tema dark, 
 ## ▸ Instalación
 
 ```bash
-git clone https://github.com/TU-USUARIO/osint-toolkit.git
+git clone https://github.com/P30RR3/osint-toolkit.git
 cd osint-toolkit
 pip install -r requirements.txt
